@@ -1,0 +1,15 @@
+/Users/aynur/Projects/Library_/Library_/bin/Debug/net6.0/Library_
+/Users/aynur/Projects/Library_/Library_/bin/Debug/net6.0/Library_.deps.json
+/Users/aynur/Projects/Library_/Library_/bin/Debug/net6.0/Library_.runtimeconfig.json
+/Users/aynur/Projects/Library_/Library_/bin/Debug/net6.0/Library_.dll
+/Users/aynur/Projects/Library_/Library_/bin/Debug/net6.0/Library_.pdb
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.csproj.AssemblyReference.cache
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.AssemblyInfoInputs.cache
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.AssemblyInfo.cs
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.csproj.CoreCompileInputs.cache
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.dll
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/refint/Library_.dll
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.pdb
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/Library_.genruntimeconfig.cache
+/Users/aynur/Projects/Library_/Library_/obj/Debug/net6.0/ref/Library_.dll
